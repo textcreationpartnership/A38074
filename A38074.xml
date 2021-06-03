@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions of peace propounded by both Houses of Parliament to the Kings Maiesty for a reconcilation [sic] of the differences between His Majesty and both Houses of Parliament : November 5.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38074</idno><idno type="EEBO-CITATION">11204487</idno>
+  <idno type="VID">46738</idno>
+  <idno type="EEBO-PROQUEST">2240927057</idno>
+  
+            <idno type="STC">Wing E2207</idno>
+            <idno type="STC">ESTC R29767</idno>
+            <idno type="OCLC">11204487</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38074)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46738)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions of peace propounded by both Houses of Parliament to the Kings Maiesty for a reconcilation [sic] of the differences between His Majesty and both Houses of Parliament : November 5.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>9 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Favvcet for J.R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46738:1"/>
+            <pb facs="tcp:46738:1"/>
+            <p>PROPOSITIONS OF PEACE Propounded by both Houses of Parliament, TO The Kings Maiesty: FOR A Reconcilation of the Differen<g ref="char:EOLhyphen"/>ces between his Majesty and both Houses of Parliament.</p>
+            <p>
+               <hi>November 5.</hi>
+            </p>
+            <p>
+               <hi>Ordered by the Lords and Commons in Parliament, that these Propositions be forthwith printed and published.</hi>
+            </p>
+            <p>Joh. Browne Cler Parl.</p>
+            <p>
+               <hi>LONDON</hi> Printed by T. FAVVCET for <hi>J. R.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46738:2"/>
+            <pb n="1" facs="tcp:46738:2"/>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majesties most▪ humble and faithfull Subjects, the Lords and Commons in PARLIAMENT; having nothing in their thoughts and desires more preci<g ref="char:EOLhyphen"/>ous, and of higher esteeme (next to the ho<g ref="char:EOLhyphen"/>nour and immediate service of God) then the just and faithfull performance of their duty to your Majesty and this Kingdome; And being very sensible of the great distrac<g ref="char:EOLhyphen"/>tions, and distempers, and of the imminent dangers and calamities which those distrac<g ref="char:EOLhyphen"/>tjons and distempers are like to bring u<g ref="char:EOLhyphen"/>pon your Majesty and your Subjects, all which have proceeded from the subtill in<g ref="char:EOLhyphen"/>sinuations,
+<pb n="2" facs="tcp:46738:3"/> mischievous practises and evill councels of men dis-affected to Gods true Religion, your Majesties honour and safe<g ref="char:EOLhyphen"/>ty, and the publike peace and prosperety of your People: After a serious observati<g ref="char:EOLhyphen"/>on of the causes of those mischiefs, doe in all humility and sincerity present to your Majesty their most dutifull Petition and advise: that out of your Princely wisdome for the establishing your owne honour and safety, and gratious tendernesse of the wel<g ref="char:EOLhyphen"/>fare and security of your Subjects and Do<g ref="char:EOLhyphen"/>minions, you will be pleased to grant and accept these their humble desires and pro<g ref="char:EOLhyphen"/>positions, as the most necessary effectuall meanes through Gods blessing, of the re<g ref="char:EOLhyphen"/>moving those Jealousies and differences which have unhappily fallen betwixt you and your People, and procuring both your Majesty and them a constant course of ho<g ref="char:EOLhyphen"/>nour, peace, and happinesse.</p>
+         </div>
+         <div type="propositions">
+            <pb n="3" facs="tcp:46738:3"/>
+            <head>The Propositions of Peace.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>Hat the great Affaires of this Kingdom may not bee concluded or transacted by the advice of private men, or by any strange or unknowne Councellors; but that such matters as concerne the publique, and are proper for the High Court of Parliament, which is your Majesties great and su<g ref="char:EOLhyphen"/>preame Councell, may be debated, resolved, and transacted onely in Parliament, and nor elsewhere; And such as shall presume to doe any thing contra<g ref="char:EOLhyphen"/>ry, shall be reserved to the censure of Parliament; And such other matters of State as are proper for your Majesties privie Councell shall be debated and concluded by such of the Nobility and others as shall from time to time be chosen for that place by approbation of both Houses of Parliament; And that no publique Act concerning the affaires of the Kingdome, which are proper for Privie Councell, may be esteemed of any vali<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity as proceeding from the Royall Authority, unlesse it be done by the ad<g ref="char:EOLhyphen"/>vise and consent of the Major part of the Councell attested under their hands. And that your Coun<g ref="char:EOLhyphen"/>cell may be limited to a certaine number, not ex<g ref="char:EOLhyphen"/>ceed in h 25. nor under 15. And if any Councel<g ref="char:EOLhyphen"/>lors plaee happen to he void in the intervals of Par<g ref="char:EOLhyphen"/>liament, it shall not be supplyed without the con<g ref="char:EOLhyphen"/>sent
+<pb n="4" facs="tcp:46738:4"/> of the major par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Councel▪ which choice shall be confirmed at the next sitting of the Parlia<g ref="char:EOLhyphen"/>ment, or else to be void.</p>
+            <p n="2">2. That the Lawes in force against Jesuites, Priests, and Popish Recusants, be strictly put it execution, without any tolleration, or dispensation to the con<g ref="char:EOLhyphen"/>trary; And that some more effectuall course may be enacted, by Authority of Parliament, to disable them from making any disturbance in the State, or deluding the Law by trust or otherwise.</p>
+            <p n="3">3. That Your Majesty will be pleased to consent that such Reformation be made of the Church Go<g ref="char:EOLhyphen"/>vernment and Liturgy, as both Houses of Parlia<g ref="char:EOLhyphen"/>ment shall advise, wherein they intend to have con<g ref="char:EOLhyphen"/>sultations with Divines as is expressed in their De<g ref="char:EOLhyphen"/>claration to that purpose. And that your Majesty will contribute your best assistance to them, for the raising of a sufficient maintenance for Preaching Ministers through the Kingdome. And that your Majestie will be pleased to give your consent to Lawes, for the taking away of Innovations, and su<g ref="char:EOLhyphen"/>perstition, and of Pluralities, and against scandalous Ministers.</p>
+            <p n="4">4. That your Majesty will be pleased to rest satis<g ref="char:EOLhyphen"/>fied with that course that the Lords and Com<g ref="char:EOLhyphen"/>mons have appointed for Ordering the <hi>Militia,</hi>
+               <pb n="5" facs="tcp:46738:4"/> untill the same shall be further setled by a Bill, and that your Majesty will recall your Declarations, and Proclamations against the Ordinance made by the Lords and Commons concerning it.</p>
+            <p n="5">5. That such Members of either House of Parlia<g ref="char:EOLhyphen"/>ment, as have during this present Parliament been put out of any place and Office, may either be re<g ref="char:EOLhyphen"/>stored to that place and Office, or otherwise have satisfaction for the same upon the Petition of that House whereof he or they are Members.</p>
+            <p n="6">6. That the Justice of Parliament may passe upon all Delinquents, whether they be within the King<g ref="char:EOLhyphen"/>dome or fled out of it. And that all Persons cited by either House of Parliament may appeare and a<g ref="char:EOLhyphen"/>bide the censure of Parliament.</p>
+            <p n="7">7. That the generall Pardon offered by your Ma<g ref="char:EOLhyphen"/>jesty may be granted with such exceptions as shall be advised by both Houses of Parliament.</p>
+            <p n="8">8. That the Forts and Castles of this Kingdome may be put under the command and custody of such persons as your Majesty shall appoint with the ap<g ref="char:EOLhyphen"/>probation of your Parliament. And in the Intervals of Parliament with the approbation of the Major part of the Councell in such manner as is before ex<g ref="char:EOLhyphen"/>pressed in the choice of Counsellors.</p>
+            <pb n="9" facs="tcp:46738:5"/>
+            <p>That the extraordinary Guards and Military for<g ref="char:EOLhyphen"/>ces now attending your Majesty may be removed and discharged. And that for the future you shall raise no such guards or Extraordinary forces▪ but according to Law, in case of actuall Rebellion or Invasion.</p>
+            <p>And these our humble desires, being granted by your Majesty, we shall forthwith apply our selves to regulate your present revenue in such sort as may be best advantage, and like<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ise to settle such an or<g ref="char:EOLhyphen"/>dinary and constant incraese of it, as shall be suffi<g ref="char:EOLhyphen"/>cient to support your Royall dignity, in honour and plenty, beyond the proportion of any former grants of the Subjects of this Kingdome to your Majesti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Royall Predecessoors. And chereefully employ the uttmost of our power and endeavour in the reall expressions and performance of our most Loyall affections, to the preserving and maintaining the Royall Honour, Greatnesse and the safety of your Majesty and your Posterity.</p>
+            <p>Whereas wee the Lords and Commons have or<g ref="char:EOLhyphen"/>dered, that it be referred to the Committee for for safety of the Kingdome, to prepare Heads of an Humble addresse unto His Majestie, for com<g ref="char:EOLhyphen"/>posing the present Differences and Distractions, and setling the Peace of the Kingdome, and to pre<g ref="char:EOLhyphen"/>sent them to the House.</p>
+            <p>To prevent all Misconstructions or Neglects, whereby our just defence may be hindred, We do Declare, that the proparation of forces, and all o<g ref="char:EOLhyphen"/>ther necessary meanes for the defence of the Prote<g ref="char:EOLhyphen"/>stant Religion, the Priviledges of Parliament, the Lawes and Liberties of the Subject, shall be pro<g ref="char:EOLhyphen"/>secuted with all vigour.</p>
+            <closer>
+               <signed>H: Elsynge, Cler: Parl D▪ Com.</signed>
+            </closer>
+            <pb facs="tcp:46738:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
